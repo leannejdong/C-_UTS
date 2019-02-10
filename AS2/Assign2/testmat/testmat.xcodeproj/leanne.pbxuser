@@ -1,0 +1,147 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D538AEAC162762B300204BCF /* testmat */;
+		activeTarget = 8DD76F620486A84900D96B5E /* testmat */;
+		codeSenseManager = D538AED0162762D000204BCF /* Code sense */;
+		executables = (
+			D538AEAC162762B300204BCF /* testmat */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1233,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 371681215;
+			PBXWorkspaceStateSaveDate = 371681215;
+		};
+		perUserProjectItems = {
+			D538AEFB1627679E00204BCF /* PBXTextBookmark */ = D538AEFB1627679E00204BCF /* PBXTextBookmark */;
+			D538AEFE1627679E00204BCF /* PBXTextBookmark */ = D538AEFE1627679E00204BCF /* PBXTextBookmark */;
+			D538AF0A1627683600204BCF /* PBXTextBookmark */ = D538AF0A1627683600204BCF /* PBXTextBookmark */;
+		};
+		sourceControlManager = D538AECF162762D000204BCF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 6227}}";
+			sepNavSelRange = "{8728, 0}";
+			sepNavVisRange = "{0, 481}";
+			sepNavWindowFrame = "{{447, -279}, {1665, 955}}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* testmat */ = {
+		activeExec = 0;
+		executables = (
+			D538AEAC162762B300204BCF /* testmat */,
+		);
+	};
+	D538AEAC162762B300204BCF /* testmat */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = testmat;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D538AECF162762D000204BCF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D538AED0162762D000204BCF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D538AEFB1627679E00204BCF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 377";
+		rLen = 0;
+		rLoc = 8728;
+		rType = 0;
+		vrLen = 481;
+		vrLoc = 0;
+	};
+	D538AEFE1627679E00204BCF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D538AEFF1627679E00204BCF /* main.cpp */;
+		name = "main.cpp: 78";
+		rLen = 0;
+		rLoc = 1727;
+		rType = 0;
+		vrLen = 1018;
+		vrLoc = 1216;
+	};
+	D538AEFF1627679E00204BCF /* main.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = main.cpp;
+		path = /Users/leanne/Desktop/ShortCourse/AS2/Assign2/MatrixSimSol/main.cpp;
+		sourceTree = "<absolute>";
+	};
+	D538AF0A1627683600204BCF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D538AF0B1627683600204BCF /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 9583;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1028;
+		vrLoc = 957;
+	};
+	D538AF0B1627683600204BCF /* main.cpp */ = {
+		isa = PBXFileReference;
+		name = main.cpp;
+		path = /Users/leanne/Desktop/ShortCourse/AS2/Assign2/MatrixSimSol/main.cpp;
+		sourceTree = "<absolute>";
+	};
+}
